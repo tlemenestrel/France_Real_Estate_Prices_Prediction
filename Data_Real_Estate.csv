@@ -1,423 +1,138 @@
-﻿Region,Type,Type_detailed,Area,Rent,Price
-Ile de France,Residential,F1,28,8343,117450
-Ile de France,Residential,F1,28,9698,140700
-Ile de France,Residential,F1,34,8507,158704
-Ile de France,Residential,F1,25,8682,165300
-Ile de France,Residential,F1,26,5812,172610
-Paca,Residential,F1,43,9110,176220
-Ile de France,Residential,F1,32,9806,180400
-Paca,Residential,F1,34,8162,222810
-Ile de France,Residential,F1,44,9795,230880
-Ile de France,Residential,F1,30,7844,240300
-Ile de France,Residential,F1,42,5590,246708
-Rhône Alpes,Residential,F1,30,8104,249441
-Paca,Residential,F1,44,6921,258000
-Ile de France,Residential,F1,28,10124,259828
-Grand Est,Residential,F1,32,10503,269705
-Rhône Alpes,Residential,F1,44,8265,286720
-Ile de France,Residential,F1,25,9101,310468
-Ile de France,Residential,F1,46,12017,331800
-Rhône Alpes,Residential,F1,21,24226,348000
-Ile de France,Residential,F1,25,9952,359295
-Ile de France,Residential,F1,20,53383,445500
-Paca,Residential,F1,45,15491,563850
-Grand Est,Residential,F1,18,24226,596050
-Ile de France,Residential,F1,18,25123,644000
-Paca,Residential,F1,16,22702,788500
-Ile de France,Residential,F1,19,23856,903000
-Ile de France,Residential,F1,18,26513,954600
-Paca,Residential,F1,23,41108,1084200
-Ile de France,Residential,F2,40,9642,102242
-Grand Est,Residential,F2,62,5607,120966
-Paca,Residential,F2,42,7721,140700
-Ile de France,Residential,F2,43,8001,176900
-Ile de France,Residential,F2,43,8398,179580
-Ile de France,Residential,F2,47,9005,200600
-Ile de France,Residential,F2,43,9202,203388
-Ile de France,Residential,F2,44,8257,224400
-Sud Ouest,Residential,F2,53,10777,233712
-Ile de France,Residential,F2,41,10187,240825
-Rhône Alpes,Residential,F2,42,7653,258000
-Paca,Residential,F2,43,9813,277760
-Ile de France,Residential,F2,43,8336,288900
-Grand Est,Residential,F2,47,8738,291150
-Ile de France,Residential,F2,45,12433,292400
-Ile de France,Residential,F2,53,10326,293700
-Ile de France,Residential,F2,49,12057,295020
-Grand Est,Residential,F2,60,11751,300160
-Ile de France,Residential,F2,46,13824,338640
-Grand Est,Residential,F2,49,15651,363000
-Paca,Residential,F2,60,11062,376320
-Grand Est,Residential,F2,47,12371,382500
-Paca,Residential,F2,44,8252,390060
-Rhône Alpes,Residential,F2,42,8986,415000
-Rhône Alpes,Residential,F2,46,16052,418657
-Paca,Residential,F2,49,14334,443360
-Ile de France,Residential,F2,52,14246,453177
-Ile de France,Residential,F2,52,11551,455006
-Ile de France,Residential,F2,47,21114,506110
-Grand Est,Residential,F2,46,17090,562250
-Ile de France,Residential,F2,47,22526,587400
-Ile de France,Residential,F2,50,25526,596050
-Ile de France,Residential,F2,49,27601,788500
-Ile de France,Residential,F2,51,36213,788500
-Ile de France,Residential,F2,50,38615,940784
-Sud Ouest,Residential,F2,50,35626,1344210
-Grand Est,Residential,F3,74,4269,107100
-Grand Est,Residential,F3,58,13365,125328
-Paca,Residential,F3,56,8881,152842
-Ile de France,Residential,F3,51,9921,244200
-Paca,Residential,F3,56,8828,274755
-Paca,Residential,F3,56,10231,297000
-Ile de France,Residential,F3,57,13508,329560
-Grand Est,Residential,F3,56,11074,335750
-Ile de France,Residential,F3,51,14189,376320
-Ile de France,Residential,F3,56,15657,417960
-Paca,Residential,F3,56,11582,433503
-Paca,Residential,F3,57,18479,486546
-Grand Est,Residential,F3,59,18896,562250
-Ile de France,Residential,F3,57,17194,597600
-Rhône Alpes,Residential,F3,60,29350,607200
-Sud Ouest,Residential,F3,57,18867,651456
-Ile de France,Residential,F3,57,17637,656600
-Ile de France,Residential,F3,57,18752,734301
-Paca,Residential,F4,94,4449,74400
-Ile de France,Residential,F4,108,5893,106500
-Grand Est,Residential,F4,93,4392,111750
-Grand Est,Residential,F4,122,7082,159600
-Grand Est,Residential,F4,106,5140,160776
-Sud Ouest,Residential,F4,108,5761,179424
-Paca,Residential,F4,116,9812,240300
-Grand Est,Residential,F4,57,19391,607200
-Ile de France,Residential,F4,57,22148,652820
-Paca,Residential,F5,121,5064,64485
-Ile de France,Residential,F5,135,4502,69450
-Ile de France,Residential,F5,121,4657,77760
-Paca,Residential,F5,108,4957,80600
-Grand Est,Residential,F5,94,4268,83160
-Rhône Alpes,Residential,F5,82,4078,89700
-Paca,Residential,F5,109,5567,103700
-Rhône Alpes,Residential,F5,114,8323,114000
-Grand Est,Residential,F5,105,3912,117502
-Paca,Residential,F5,120,4654,138580
-Ile de France,Residential,F5,110,7140,184800
-Ile de France,Residential,F5,114,8963,194700
-Paca,Residential,F5,133,6780,207200
-Paca,Residential,F5,134,7106,224325
-Ile de France,Residential,F5,128,9098,236800
-Grand Est,Residential,F5,123,7739,238000
-Grand Est,Residential,F5,110,7844,240300
-Grand Est,Residential,F5,121,8096,244544
-Ile de France,Residential,F5,114,9714,256007
-Sud Ouest,Residential,F5,114,7995,303600
-Paca,Residential,F5,117,9376,336039
-Ile de France,Residential,F5,113,6057,541500
-Ile de France,Residential,F6,123,4922,43056
-Ile de France,Residential,F6,123,4777,83200
-Ile de France,Residential,F6,123,5607,109872
-Ile de France,Residential,F6,123,5607,119028
-Grand Est,Residential,F6,118,8550,127879
-Paca,Residential,F6,125,4489,149650
-Paca,Residential,F6,106,5567,158465
-Ile de France,Residential,F6,118,7366,160776
-Paca,Residential,F6,139,6987,165300
-Rhône Alpes,Residential,F6,125,6066,176220
-Paca,Residential,F6,123,5580,196000
-Ile de France,Residential,F6,123,3358,203130
-Grand Est,Residential,F6,125,6006,206920
-Sud Ouest,Residential,F6,115,7722,245348
-Paca,Residential,F6,118,6830,254400
-Sud Ouest,Residential,F6,123,6901,265600
-Ile de France,Residential,F6,123,9297,275112
-Sud Ouest,Residential,F6,125,9805,286720
-Rhône Alpes,Residential,F6,115,9274,342650
-Sud Ouest,Residential,F6,125,8383,365200
-Ile de France,Residential,F6,123,6145,370062
-Ile de France,Residential,F7,126,4576,68145
-Sud Ouest,Residential,F7,126,8658,256650
-Paca,Residential,F7,133,6017,294750
-Ile de France,Parking sous-sol,Parking sous-sol,8,5020,30360
-Grand Est,Parking sous-sol,Parking sous-sol,8,6475,59740
-Ile de France,Parking sous-sol,Parking sous-sol,8,8182,66990
-Grand Est,Parking sous-sol,Parking sous-sol,8,6228,76890
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,5475,89740
-Paca,Parking sous-sol,Parking sous-sol,8,8026,91126
-Ile de France,Parking sous-sol,Parking sous-sol,8,7645,99325
-Ile de France,Parking sous-sol,Parking sous-sol,8,4797,108346
-Ile de France,Parking sous-sol,Parking sous-sol,8,6059,112200
-Paca,Parking sous-sol,Parking sous-sol,8,5607,114450
-Paca,Parking sous-sol,Parking sous-sol,8,5643,116790
-Paca,Parking sous-sol,Parking sous-sol,8,8643,121800
-Paca,Parking sous-sol,Parking sous-sol,8,12239,126100
-Paca,Parking sous-sol,Parking sous-sol,8,10697,128650
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,7232,129140
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,5967,129200
-Ile de France,Parking sous-sol,Parking sous-sol,8,6000,131296
-Paca,Parking sous-sol,Parking sous-sol,8,9366,133400
-Paca,Parking sous-sol,Parking sous-sol,8,7227,134640
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,7968,135680
-Paca,Parking sous-sol,Parking sous-sol,8,6231,137264
-Ile de France,Parking sous-sol,Parking sous-sol,8,10426,140400
-Ile de France,Parking sous-sol,Parking sous-sol,8,7404,141900
-Paca,Parking sous-sol,Parking sous-sol,8,5577,145200
-Ile de France,Parking sous-sol,Parking sous-sol,8,7259,146774
-Ile de France,Parking sous-sol,Parking sous-sol,8,7148,148920
-Paca,Parking sous-sol,Parking sous-sol,8,7149,148920
-Ile de France,Parking sous-sol,Parking sous-sol,8,5010,150265
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,7007,151980
-Ile de France,Parking sous-sol,Parking sous-sol,8,5051,152600
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,5248,155034
-Paca,Parking sous-sol,Parking sous-sol,8,6669,155100
-Ile de France,Parking sous-sol,Parking sous-sol,8,4842,155800
-Ile de France,Parking sous-sol,Parking sous-sol,8,11703,159900
-Ile de France,Parking sous-sol,Parking sous-sol,8,10291,160600
-Paca,Parking sous-sol,Parking sous-sol,8,6602,160776
-Ile de France,Parking sous-sol,Parking sous-sol,8,9468,162360
-Paca,Parking sous-sol,Parking sous-sol,8,8542,163200
-Ile de France,Parking sous-sol,Parking sous-sol,8,5790,164340
-Paca,Parking sous-sol,Parking sous-sol,8,10081,165900
-Grand Est,Parking sous-sol,Parking sous-sol,8,9833,166630
-Ile de France,Parking sous-sol,Parking sous-sol,8,9696,167200
-Grand Est,Parking sous-sol,Parking sous-sol,8,6360,168300
-Grand Est,Parking sous-sol,Parking sous-sol,8,7868,170000
-Paca,Parking sous-sol,Parking sous-sol,8,10251,171000
-Paca,Parking sous-sol,Parking sous-sol,8,7526,174000
-Grand Est,Parking sous-sol,Parking sous-sol,8,7830,176400
-Grand Est,Parking sous-sol,Parking sous-sol,8,8663,179580
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,9980,180400
-Ile de France,Parking sous-sol,Parking sous-sol,8,6656,180960
-Paca,Parking sous-sol,Parking sous-sol,8,6355,184800
-Paca,Parking sous-sol,Parking sous-sol,8,8558,185600
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,8620,185600
-Ile de France,Parking sous-sol,Parking sous-sol,8,9005,185600
-Ile de France,Parking sous-sol,Parking sous-sol,8,13484,187000
-Paca,Parking sous-sol,Parking sous-sol,8,6679,188100
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,4806,190530
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,7414,191100
-Paca,Parking sous-sol,Parking sous-sol,8,8778,191580
-Ile de France,Parking sous-sol,Parking sous-sol,8,4661,192000
-Ile de France,Parking sous-sol,Parking sous-sol,8,7123,192881
-Ile de France,Parking sous-sol,Parking sous-sol,8,7810,194700
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,6628,196620
-Ile de France,Parking sous-sol,Parking sous-sol,8,12489,196710
-Paca,Parking sous-sol,Parking sous-sol,8,7901,199230
-Paca,Parking sous-sol,Parking sous-sol,8,5882,199290
-Paca,Parking sous-sol,Parking sous-sol,8,8679,206379
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,8335,208800
-Ile de France,Parking sous-sol,Parking sous-sol,8,9716,208800
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,7479,209450
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,13335,214668
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,8516,218300
-Paca,Parking sous-sol,Parking sous-sol,8,6620,219924
-Paca,Parking sous-sol,Parking sous-sol,8,6473,221334
-Grand Est,Parking sous-sol,Parking sous-sol,8,6801,221928
-Ile de France,Parking sous-sol,Parking sous-sol,8,6223,222710
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,6221,230307
-Ile de France,Parking sous-sol,Parking sous-sol,8,9888,233100
-Ile de France,Parking sous-sol,Parking sous-sol,8,8935,237000
-Paca,Parking sous-sol,Parking sous-sol,8,7114,239280
-Ile de France,Parking sous-sol,Parking sous-sol,8,6377,241380
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,9332,244200
-Ile de France,Parking sous-sol,Parking sous-sol,8,7453,248253
-Paca,Parking sous-sol,Parking sous-sol,8,8472,249600
-Ile de France,Parking sous-sol,Parking sous-sol,8,6066,249912
-Grand Est,Parking sous-sol,Parking sous-sol,8,8916,250380
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,8054,251244
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,9069,254790
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,9734,254790
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,10332,254790
-Ile de France,Parking sous-sol,Parking sous-sol,8,10519,255519
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,14695,257540
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,8291,260100
-Ile de France,Parking sous-sol,Parking sous-sol,8,6997,260687
-Ile de France,Parking sous-sol,Parking sous-sol,8,9809,268200
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,5130,278748
-Ile de France,Parking sous-sol,Parking sous-sol,8,6695,278748
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,6892,278748
-Ile de France,Parking sous-sol,Parking sous-sol,8,10035,281610
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,6277,281664
-Paca,Parking sous-sol,Parking sous-sol,8,12047,282510
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,9333,283874
-Paca,Parking sous-sol,Parking sous-sol,8,14046,286380
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,7840,288000
-Ile de France,Parking sous-sol,Parking sous-sol,8,6265,291564
-Paca,Parking sous-sol,Parking sous-sol,8,7645,294712
-Grand Est,Parking sous-sol,Parking sous-sol,8,9602,295680
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,10019,297000
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,7055,303380
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,8439,303600
-Paca,Parking sous-sol,Parking sous-sol,8,9487,320400
-Paca,Parking sous-sol,Parking sous-sol,8,8608,323700
-Paca,Parking sous-sol,Parking sous-sol,8,9566,324000
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,9487,329300
-Ile de France,Parking sous-sol,Parking sous-sol,8,15600,331500
-Ile de France,Parking sous-sol,Parking sous-sol,8,8167,332826
-Paca,Parking sous-sol,Parking sous-sol,8,7311,333750
-Paca,Parking sous-sol,Parking sous-sol,8,13512,335320
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,10011,335412
-Ile de France,Parking sous-sol,Parking sous-sol,8,9176,342210
-Ile de France,Parking sous-sol,Parking sous-sol,8,12549,342370
-Paca,Parking sous-sol,Parking sous-sol,8,8372,346720
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,12158,350000
-Ile de France,Parking sous-sol,Parking sous-sol,8,21591,352000
-Paca,Parking sous-sol,Parking sous-sol,8,17612,353700
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,13152,358145
-Ile de France,Parking sous-sol,Parking sous-sol,8,13093,361050
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,11649,364800
-Ile de France,Parking sous-sol,Parking sous-sol,8,16969,367380
-Grand Est,Parking sous-sol,Parking sous-sol,8,15073,369600
-Ile de France,Parking sous-sol,Parking sous-sol,8,10521,377400
-Paca,Parking sous-sol,Parking sous-sol,8,11188,378000
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,8459,380421
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,15683,382800
-Paca,Parking sous-sol,Parking sous-sol,8,13640,388440
-Paca,Parking sous-sol,Parking sous-sol,8,8235,389268
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,7787,394394
-Paca,Parking sous-sol,Parking sous-sol,8,17426,396000
-Ile de France,Parking sous-sol,Parking sous-sol,8,11554,404700
-Grand Est,Parking sous-sol,Parking sous-sol,8,15772,406350
-Paca,Parking sous-sol,Parking sous-sol,8,8552,409400
-Paca,Parking sous-sol,Parking sous-sol,8,10291,411240
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,15028,421830
-Ile de France,Parking sous-sol,Parking sous-sol,8,15809,425700
-Paca,Parking sous-sol,Parking sous-sol,8,11333,427000
-Paca,Parking sous-sol,Parking sous-sol,8,10935,429120
-Ile de France,Parking sous-sol,Parking sous-sol,8,14737,433788
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,10905,447000
-Ile de France,Parking sous-sol,Parking sous-sol,8,16317,447260
-Grand Est,Parking sous-sol,Parking sous-sol,8,9293,456500
-Ile de France,Parking sous-sol,Parking sous-sol,8,11442,456500
-Paca,Parking sous-sol,Parking sous-sol,8,17741,487340
-Ile de France,Parking sous-sol,Parking sous-sol,8,14891,490000
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,21430,500225
-Ile de France,Parking sous-sol,Parking sous-sol,8,8920,506300
-Ile de France,Parking sous-sol,Parking sous-sol,8,12879,520000
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,13059,530000
-Ile de France,Parking sous-sol,Parking sous-sol,8,15306,532000
-Grand Est,Parking sous-sol,Parking sous-sol,8,17594,544950
-Ile de France,Parking sous-sol,Parking sous-sol,8,17742,550000
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,17005,552500
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,18198,556200
-Ile de France,Parking sous-sol,Parking sous-sol,8,11876,559000
-Grand Est,Parking sous-sol,Parking sous-sol,8,19749,565500
-Ile de France,Parking sous-sol,Parking sous-sol,8,18597,567690
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,18986,570900
-Paca,Parking sous-sol,Parking sous-sol,8,20519,572000
-Ile de France,Parking sous-sol,Parking sous-sol,8,15385,578500
-Ile de France,Parking sous-sol,Parking sous-sol,8,28864,582400
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,19491,589300
-Ile de France,Parking sous-sol,Parking sous-sol,8,9041,593169
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,14012,598500
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,16889,617167
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,24439,630000
-Ile de France,Parking sous-sol,Parking sous-sol,8,18209,632400
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,17431,632700
-Ile de France,Parking sous-sol,Parking sous-sol,8,21522,635800
-Grand Est,Parking sous-sol,Parking sous-sol,8,17355,645831
-Grand Est,Parking sous-sol,Parking sous-sol,8,20710,651000
-Grand Est,Parking sous-sol,Parking sous-sol,8,19420,663525
-Ile de France,Parking sous-sol,Parking sous-sol,8,20111,665000
-Rhône Alpes,Parking sous-sol,Parking sous-sol,8,19078,672000
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,17785,681219
-Sud Ouest,Parking sous-sol,Parking sous-sol,8,16310,697200
-Paca,Parking sous-sol,Parking sous-sol,8,21505,722950
-Grand Est,Parking sous-sol,Parking sous-sol,8,18151,730000
-Paca,Parking sous-sol,Parking sous-sol,8,23389,747000
-Grand Est,Parking sous-sol,Parking sous-sol,8,16339,813400
-Ile de France,Parking sous-sol,Parking sous-sol,8,18303,863200
-Ile de France,Parking sous-sol,Parking sous-sol,8,21151,896400
-Paca,Parking sous-sol,Parking sous-sol,8,12180,943000
-Rhône Alpes,Parking surface,Parking surface,8,5599,91000
-Sud Ouest,Parking surface,Parking surface,8,9339,110500
-Ile de France,Parking surface,Parking surface,8,7322,126060
-Rhône Alpes,Parking surface,Parking surface,8,9046,126658
-Paca,Parking surface,Parking surface,8,7703,140580
-Ile de France,Parking surface,Parking surface,8,9036,140700
-Ile de France,Parking surface,Parking surface,8,7313,160776
-Rhône Alpes,Parking surface,Parking surface,8,5740,163404
-Rhône Alpes,Parking surface,Parking surface,8,7920,163647
-Paca,Parking surface,Parking surface,8,8398,168630
-Ile de France,Parking surface,Parking surface,8,9235,169400
-Ile de France,Parking surface,Parking surface,8,8648,182700
-Rhône Alpes,Parking surface,Parking surface,8,8357,187200
-Paca,Parking surface,Parking surface,8,8331,197650
-Ile de France,Parking surface,Parking surface,8,7864,199020
-Ile de France,Parking surface,Parking surface,8,8232,201898
-Rhône Alpes,Parking surface,Parking surface,8,7610,202000
-Grand Est,Parking surface,Parking surface,8,8075,203388
-Rhône Alpes,Parking surface,Parking surface,8,9045,205900
-Rhône Alpes,Parking surface,Parking surface,8,7543,207000
-Ile de France,Parking surface,Parking surface,8,7405,215325
-Rhône Alpes,Parking surface,Parking surface,8,7421,218300
-Paca,Parking surface,Parking surface,8,7431,224000
-Paca,Parking surface,Parking surface,8,5897,227970
-Grand Est,Parking surface,Parking surface,8,12411,234000
-Grand Est,Parking surface,Parking surface,8,10941,237600
-Grand Est,Parking surface,Parking surface,8,8194,240300
-Paca,Parking surface,Parking surface,8,7705,241164
-Grand Est,Parking surface,Parking surface,8,8391,253980
-Ile de France,Parking surface,Parking surface,8,10088,254790
-Ile de France,Parking surface,Parking surface,8,9915,256007
-Ile de France,Parking surface,Parking surface,8,6066,259524
-Ile de France,Parking surface,Parking surface,8,13248,267810
-Sud Ouest,Parking surface,Parking surface,8,11976,270000
-Paca,Parking surface,Parking surface,8,8658,270300
-Paca,Parking surface,Parking surface,8,11240,276900
-Ile de France,Parking surface,Parking surface,8,11886,277200
-Grand Est,Parking surface,Parking surface,8,12145,281610
-Grand Est,Parking surface,Parking surface,8,7848,282593
-Rhône Alpes,Parking surface,Parking surface,8,13123,286380
-Ile de France,Parking surface,Parking surface,8,13859,290250
-Rhône Alpes,Parking surface,Parking surface,8,10816,290550
-Grand Est,Parking surface,Parking surface,8,11604,295680
-Rhône Alpes,Parking surface,Parking surface,8,9516,299200
-Ile de France,Parking surface,Parking surface,8,10178,300535
-Rhône Alpes,Parking surface,Parking surface,8,6977,303380
-Ile de France,Parking surface,Parking surface,8,8564,303600
-Ile de France,Parking surface,Parking surface,8,9687,308100
-Paca,Parking surface,Parking surface,8,11296,310083
-Rhône Alpes,Parking surface,Parking surface,8,13830,313376
-Ile de France,Parking surface,Parking surface,8,10577,322000
-Grand Est,Parking surface,Parking surface,8,10841,325375
-Ile de France,Parking surface,Parking surface,8,8973,327600
-Ile de France,Parking surface,Parking surface,8,9917,327600
-Ile de France,Parking surface,Parking surface,8,7902,331200
-Ile de France,Parking surface,Parking surface,8,15179,331500
-Ile de France,Parking surface,Parking surface,8,11018,332588
-Grand Est,Parking surface,Parking surface,8,9517,333000
-Ile de France,Parking surface,Parking surface,8,9993,335750
-Rhône Alpes,Parking surface,Parking surface,8,10073,335750
-Paca,Parking surface,Parking surface,8,8133,336186
-Grand Est,Parking surface,Parking surface,8,9570,340476
-Ile de France,Parking surface,Parking surface,8,10202,344000
-Ile de France,Parking surface,Parking surface,8,10528,344400
-Ile de France,Parking surface,Parking surface,8,9908,349146
-Sud Ouest,Parking surface,Parking surface,8,10075,351900
-Paca,Parking surface,Parking surface,8,11366,367360
-Ile de France,Parking surface,Parking surface,8,12077,382547
-Ile de France,Parking surface,Parking surface,8,10869,388800
-Grand Est,Parking surface,Parking surface,8,10788,390060
-Ile de France,Parking surface,Parking surface,8,10127,390800
-Grand Est,Parking surface,Parking surface,8,10780,396000
-Rhône Alpes,Parking surface,Parking surface,8,11688,421800
-Ile de France,Parking surface,Parking surface,8,11416,424650
-Ile de France,Parking surface,Parking surface,8,11896,432430
-Paca,Parking surface,Parking surface,8,13390,433500
-Ile de France,Parking surface,Parking surface,8,10583,455940
-Rhône Alpes,Parking surface,Parking surface,8,14371,459000
-Paca,Parking surface,Parking surface,8,21645,498270
-Rhône Alpes,Parking surface,Parking surface,8,11678,500640
-Rhône Alpes,Parking surface,Parking surface,8,11786,514600
-Rhône Alpes,Parking surface,Parking surface,8,16782,516368
-Rhône Alpes,Parking surface,Parking surface,8,16960,516600
-Ile de France,Parking surface,Parking surface,8,28272,570960
-Grand Est,Parking surface,Parking surface,8,21709,573300
-Grand Est,Parking surface,Parking surface,8,14082,579550
-Paca,Parking surface,Parking surface,8,17116,636984
-Rhône Alpes,Parking surface,Parking surface,8,15252,663525
-Ile de France,Parking surface,Parking surface,8,13851,720000
-Paca,Parking surface,Parking surface,8,21069,781200
-Rhône Alpes,Parking surface,Parking surface,8,23458,788500
-Rhône Alpes,Parking surface,Parking surface,8,24773,810060
-Paca,Parking surface,Parking surface,8,32658,987700
-Rhône Alpes,Parking surface,Parking surface,8,24577,1018944
+﻿Region,Type,Area,Rent,Price
+Ile de France,F1,28,8343,117450
+Ile de France,F1,28,9698,140700
+Ile de France,F1,34,8507,158704
+Ile de France,F1,25,8682,165300
+Ile de France,F1,26,5812,172610
+Paca,F1,43,9110,176220
+Ile de France,F1,32,9806,180400
+Paca,F1,34,8162,222810
+Ile de France,F1,44,9795,230880
+Ile de France,F1,30,7844,240300
+Ile de France,F1,42,5590,246708
+Rhône Alpes,F1,30,8104,249441
+Paca,F1,44,6921,258000
+Ile de France,F1,28,10124,259828
+Grand Est,F1,32,10503,269705
+Rhône Alpes,F1,44,8265,286720
+Ile de France,F1,25,9101,310468
+Ile de France,F1,46,12017,331800
+Rhône Alpes,F1,21,24226,348000
+Ile de France,F1,25,9952,359295
+Ile de France,F1,20,53383,445500
+Paca,F1,45,15491,563850
+Grand Est,F1,18,24226,596050
+Ile de France,F1,18,25123,644000
+Paca,F1,16,22702,788500
+Ile de France,F1,19,23856,903000
+Ile de France,F1,18,26513,954600
+Paca,F1,23,41108,1084200
+Ile de France,F2,40,9642,102242
+Grand Est,F2,62,5607,120966
+Paca,F2,42,7721,140700
+Ile de France,F2,43,8001,176900
+Ile de France,F2,43,8398,179580
+Ile de France,F2,47,9005,200600
+Ile de France,F2,43,9202,203388
+Ile de France,F2,44,8257,224400
+Sud Ouest,F2,53,10777,233712
+Ile de France,F2,41,10187,240825
+Rhône Alpes,F2,42,7653,258000
+Paca,F2,43,9813,277760
+Ile de France,F2,43,8336,288900
+Grand Est,F2,47,8738,291150
+Ile de France,F2,45,12433,292400
+Ile de France,F2,53,10326,293700
+Ile de France,F2,49,12057,295020
+Grand Est,F2,60,11751,300160
+Ile de France,F2,46,13824,338640
+Grand Est,F2,49,15651,363000
+Paca,F2,60,11062,376320
+Grand Est,F2,47,12371,382500
+Paca,F2,44,8252,390060
+Rhône Alpes,F2,42,8986,415000
+Rhône Alpes,F2,46,16052,418657
+Paca,F2,49,14334,443360
+Ile de France,F2,52,14246,453177
+Ile de France,F2,52,11551,455006
+Ile de France,F2,47,21114,506110
+Grand Est,F2,46,17090,562250
+Ile de France,F2,47,22526,587400
+Ile de France,F2,50,25526,596050
+Ile de France,F2,49,27601,788500
+Ile de France,F2,51,36213,788500
+Ile de France,F2,50,38615,940784
+Sud Ouest,F2,50,35626,1344210
+Grand Est,F3,74,4269,107100
+Grand Est,F3,58,13365,125328
+Paca,F3,56,8881,152842
+Ile de France,F3,51,9921,244200
+Paca,F3,56,8828,274755
+Paca,F3,56,10231,297000
+Ile de France,F3,57,13508,329560
+Grand Est,F3,56,11074,335750
+Ile de France,F3,51,14189,376320
+Ile de France,F3,56,15657,417960
+Paca,F3,56,11582,433503
+Paca,F3,57,18479,486546
+Grand Est,F3,59,18896,562250
+Ile de France,F3,57,17194,597600
+Rhône Alpes,F3,60,29350,607200
+Sud Ouest,F3,57,18867,651456
+Ile de France,F3,57,17637,656600
+Ile de France,F3,57,18752,734301
+Paca,F4,94,4449,74400
+Ile de France,F4,108,5893,106500
+Grand Est,F4,93,4392,111750
+Grand Est,F4,122,7082,159600
+Grand Est,F4,106,5140,160776
+Sud Ouest,F4,108,5761,179424
+Paca,F4,116,9812,240300
+Grand Est,F4,57,19391,607200
+Ile de France,F4,57,22148,652820
+Paca,F5,121,5064,64485
+Ile de France,F5,135,4502,69450
+Ile de France,F5,121,4657,77760
+Paca,F5,108,4957,80600
+Grand Est,F5,94,4268,83160
+Rhône Alpes,F5,82,4078,89700
+Paca,F5,109,5567,103700
+Rhône Alpes,F5,114,8323,114000
+Grand Est,F5,105,3912,117502
+Paca,F5,120,4654,138580
+Ile de France,F5,110,7140,184800
+Ile de France,F5,114,8963,194700
+Paca,F5,133,6780,207200
+Paca,F5,134,7106,224325
+Ile de France,F5,128,9098,236800
+Grand Est,F5,123,7739,238000
+Grand Est,F5,110,7844,240300
+Grand Est,F5,121,8096,244544
+Ile de France,F5,114,9714,256007
+Sud Ouest,F5,114,7995,303600
+Paca,F5,117,9376,336039
+Ile de France,F5,113,6057,541500
+Ile de France,F6,123,4922,43056
+Ile de France,F6,123,4777,83200
+Ile de France,F6,123,5607,109872
+Ile de France,F6,123,5607,119028
+Grand Est,F6,118,8550,127879
+Paca,F6,125,4489,149650
+Paca,F6,106,5567,158465
+Ile de France,F6,118,7366,160776
+Paca,F6,139,6987,165300
+Rhône Alpes,F6,125,6066,176220
+Paca,F6,123,5580,196000
+Ile de France,F6,123,3358,203130
+Grand Est,F6,125,6006,206920
+Sud Ouest,F6,115,7722,245348
+Paca,F6,118,6830,254400
+Sud Ouest,F6,123,6901,265600
+Ile de France,F6,123,9297,275112
+Sud Ouest,F6,125,9805,286720
+Rhône Alpes,F6,115,9274,342650
+Sud Ouest,F6,125,8383,365200
+Ile de France,F6,123,6145,370062
+Ile de France,F7,126,4576,68145
+Sud Ouest,F7,126,8658,256650
+Paca,F7,133,6017,294750
