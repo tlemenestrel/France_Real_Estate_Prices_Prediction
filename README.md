@@ -29,7 +29,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Libraries to install
 
-* ![pandas] (https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) 
+* [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 * numpy 
 * seaborn 
 * matplotlib
