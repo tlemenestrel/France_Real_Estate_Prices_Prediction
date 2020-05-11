@@ -16,9 +16,9 @@ The dataset contains the data of more of 350+ properties across France. The feat
 
 * the area in square metres 
 
-* the rent per year in € and 
+* the rent per year in €  
 
-* the price of the property in €.
+* the price of the property in €
 
 ## Getting Started
 
