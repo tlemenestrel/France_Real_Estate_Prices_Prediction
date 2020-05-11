@@ -27,7 +27,7 @@ What things you need to install the software and how to install them
 
 ## Author
 
-* **Thomas Le Menestrel** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Thomas Le Menestrel** 
 
 ## License
 
