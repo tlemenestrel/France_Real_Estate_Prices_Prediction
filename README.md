@@ -49,4 +49,4 @@ After this, you should be able to run the project using Jupyter Notebook.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](/https://github.com/tlemenestrel/France_Real_Estate_Prices_Prediction/blob/master/LICENSE) file for details
