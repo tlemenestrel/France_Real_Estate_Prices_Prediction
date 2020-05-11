@@ -11,21 +11,18 @@ One Paragraph of project description goes here
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+### How to download a copy of the project
+
+
 ### Libraries to install
 
-* pandas 
+* ![pandas] (https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) 
 * numpy 
 * seaborn 
 * matplotlib
 * sklearn
 * xgboost
 * graphviz
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Features importance
 
