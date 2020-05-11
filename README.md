@@ -20,6 +20,12 @@ The dataset contains the data of more of 350+ properties across France. The feat
 
 * the price of the property in €
 
+## Features importance
+
+![Image of features importance](https://github.com/tlemenestrel/France_Real_Estate_Prices_Prediction/blob/master/Images/xgboost_features_importance.png)
+
+For this dataset, the two most dominant features are clearly the annual rent and the area of the property, which is expected for a ML model on real estate prices. The other features help to fine-tune the accuracy of the model.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -36,10 +42,6 @@ These instructions will get you a copy of the project up and running on your loc
 * sklearn
 * xgboost
 * graphviz
-
-## Features importance
-
-![Image of features importance](https://github.com/tlemenestrel/France_Real_Estate_Prices_Prediction/blob/master/Images/xgboost_features_importance.png)
 
 ## Author
 
