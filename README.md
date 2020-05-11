@@ -6,7 +6,7 @@ This project is a Machine Learning model to predict real estate prices of proper
 
 ## Dataset
 
-The dataset contains the data of more of 350+ properties across France. The features are:
+The dataset contains the data of 350+ real-estate properties across France. The features are:
 
 * the city where the property is located (Aix-En-Provence, Vincennes, Toulouse, Paris, Marseille, Manosque, Lyon, Issy-Les-Moulineaux, Gif Sur Yvette, Enghien Les Bains or Bourg La Reine)
 
@@ -28,7 +28,7 @@ For this dataset, the two most dominant features are clearly the annual rent and
 
 ## How to download a copy of the project
 
-To download a copy of the project, just go on the main page of the project on GitHub, click on "Clone or download" and then "Download ZIP". 
+To download a copy of the project, just go on the main page of the project on GitHub, click on **"Clone or download"** and then **"Download ZIP"**. 
 
 After this, you should be able to run the project using Jupyter Notebooks.
 
