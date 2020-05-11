@@ -30,11 +30,11 @@ For this dataset, the two most dominant features are clearly the annual rent and
 
 To download a copy of the project, just go on the main page of the project on GitHub, click on **"Clone or download"** and then **"Download ZIP"**. 
 
-After this, you should be able to run the project using Jupyter Notebooks.
+After this, you should be able to run the project using Jupyter Notebook.
 
 ## Libraries to install
 
-* [Jupyter Notebooks](https://jupyter.org/install)
+* [Jupyter Notebook](https://jupyter.org/install)
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 * [numPy](https://numpy.org)
 * [Seaborn](https://pypi.org/project/seaborn/)
