@@ -2,10 +2,11 @@
 
 # Predicting real estate prices in France using XGBoost 
 
+This project is a Machine Learning model to predict real estate prices of properties across France. It is a supervised regression task. The model used for this project is XGBoost.
 
-## Project Description
+## Dataset
 
-One Paragraph of project description goes here
+The dataset contains the data of more of 350+ properties across France. The features are the city where the property is located (Aix-En-Provence, Vincennes, Toulouse, Paris, Marseille, Manosque, Lyon, Issy-Les-Moulineaux, Gif Sur Yvette, Enghien Les Bains or Bourg La Reine), the region (Paca, Ile de France or Sud Ouest), the type (F1, F2, F3, F4, F5, F6, F7), the area in square metres, the rent per year in € and the price of the property in € as well.
 
 ## Getting Started
 
